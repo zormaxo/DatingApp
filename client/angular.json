@@ -70,9 +70,9 @@
             },
             "development": {
               "browserTarget": "client:build:development",
-               "sslKey": "ssl/server.key",
-              "sslCert": "ssl/server.crt",
-              "ssl": true
+                "sslKey": "ssl/server.key",
+                "sslCert": "ssl/server.crt",
+                "ssl": true
             }
           },
           "defaultConfiguration": "development"
