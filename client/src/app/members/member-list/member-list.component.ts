@@ -13,7 +13,7 @@ export class MemberListComponent implements OnInit {
   constructor(private memberService: MembersService) {}
 
   ngOnInit(): void {
-    // this.loadMembers();
+    this.loadMembers();
   }
 
   loadMembers() {
